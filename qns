@@ -1,1 +1,27 @@
 
+1. Develop a program to read a paragraph of text and perform the 
+following tasks: a. Count the total number of words. b. Calculate the 
+average word length. c. Identify and print the longest word. d. Replace 
+all occurrences of a specific word with another word of your choice.
+
+2. String Encryption Write a program that reads a sentence from the user 
+and encrypts it using a simple Caesar cipher. The user can specify the 
+shift value. Implement the encryption such that only alphabetic 
+characters are shifted, while maintaining their case.
+
+3. Data Validation and User Input Develop a program to read student 
+records with their names, ages, and grades. Implement validation 
+checks: a. Ensure age is a positive integer. b. Ensure grade is a valid 
+letter grade (A, B, C, D, F). c. Calculate and display the average age 
+of students with valid records.
+
+4. Password Generator Write a program to generate a random password 
+for a user. The password should include a mix of uppercase letters, 
+lowercase letters, digits, and special characters. Allow the user to 
+specify the length of the password.
+
+5. Series Summation Develop a program to calculate the sum of the 
+series: 1 - 2/3 + 3/5 - 4/7 + ... up to a specified number of terms. Allow 
+the user to input the number of terms in the series.
+
+6. Prime Number Checker Write a program to check wh
