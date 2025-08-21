@@ -24,4 +24,25 @@ specify the length of the password.
 series: 1 - 2/3 + 3/5 - 4/7 + ... up to a specified number of terms. Allow 
 the user to input the number of terms in the series.
 
-6. Prime Number Checker Write a program to check wh
+6.Prime Number Checker Write a program to check whether a given 
+number is prime or not. Implement this using both loops and functions. 
+Additionally, allow the user to input a range and identify all prime 
+numbers within that range.
+
+7. Fibonacci Series with a Twist Develop a program to generate the 
+Fibonacci series, but with a twist. Allow the user to input the number of 
+terms and generate the series where each term is the sum of the last 
+three terms.
+
+8. Palindrome Checker Write a program that reads a string and checks if 
+it's a palindrome. A palindrome is a string that reads the same forwards 
+and backwards, ignoring spaces and punctuation.
+
+9. Data Compression Design a program to read a string and compress it 
+using run-length encoding. In run-length encoding, consecutive 
+repeated characters are replaced with a single character followed by 
+the count of occurrences.
+
+10. Data Reversal Write a program to reverse the order of elements 
+in a given list. Implement this without using any built-in functions or 
+loops
