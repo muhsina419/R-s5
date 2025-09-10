@@ -1,3 +1,4 @@
+Lab cycle 1
 
 1. Develop a program to read a paragraph of text and perform the 
 following tasks: a. Count the total number of words. b. Calculate the 
@@ -46,3 +47,54 @@ the count of occurrences.
 10. Data Reversal Write a program to reverse the order of elements 
 in a given list. Implement this without using any built-in functions or 
 loops
+
+
+Lab cycle - 2
+
+1. Create a scatterplot of the Sepal.Length and Petal.Length variables in 
+the iris dataset using the plot function? Add appropriate labels and title 
+to the plot. Save the plot as a high-resolution image file.
+
+2. Create a scatterplot of the mpg and disp variables in the mtcars
+dataset. Use different colors to represent the cyl variable and add a 
+smooth line to show the trend. Add appropriate labels, title, and legend 
+to the plot
+
+3. Create a bar plot of the number of cylinders (cyl) in the mtcars dataset. 
+Use different colors to represent the transmission type (am). Add 
+appropriate title, labels, and legend to the plot.
+
+4. Create a histogram of the miles per gallon (mpg) in the mtcars dataset. 
+Use different shades of blue to represent the frequency of each bin. 
+Add appropriate title and labels to the plot. Calculate and display the 
+mean and standard deviation of mpg on the plot.
+
+5. Create a box plot of the horsepower (hp) in the mtcars dataset. Use 
+different shapes to represent the number of gears (gear). Add 
+appropriate title, labels, and legend to the plot. Identify and label any 
+outliers on the plot.
+
+6. Create a scatter plot of the displacement (disp) versus the weight (wt) 
+in the mtcars dataset. Use different colors and sizes to represent the 
+number of carburetors (carb). Add appropriate title, labels, and legend 
+to the plot. Add a smooth line to show the trend of the relationship.
+
+7. Develop an R program to create a time series plot using real-world 
+data. (https://www.kaggle.com/datasets/niketchauhan/covid-19-timeseries-data)
+
+8. Perform EDA on "Titanic Dataset". You are given the Titanic dataset, 
+which contains information about passengers on the Titanic, including 
+their survival status, age, class, and gender. 
+a)plot the histogram of 
+Number of parents and children of the passenger aboard(parch).
+b)Perform a detailed EDA, including advanced statistical analysis, to 
+explore factors influencing survival rates. 
+c)Create a customized box plot to visualize the age distribution of 
+survivors and non-survivors.
+
+9. EDA on "Iris Dataset"
+a) For the Iris dataset, which contains measurements of various iris 
+flowers, conduct an EDA.
+a. Determine if there are statistically significant differences in sepal 
+lengths between different species using a suitable statistical test.
+b. Create a pair plot to visualize the relationships between all variables.
