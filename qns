@@ -98,3 +98,10 @@ flowers, conduct an EDA.
 a. Determine if there are statistically significant differences in sepal 
 lengths between different species using a suitable statistical test.
 b. Create a pair plot to visualize the relationships between all variables.
+
+
+Suppose we have a dataset of motor trend car road tests (mtcars). The 
+dataset contains information about 32 car brands and 11 attributes. We 
+want to investigate whether there are any significant variations in the 
+average displacement (disp) across different gear types (gear). Perform 
+a one-way ANOVA test to analyze this
